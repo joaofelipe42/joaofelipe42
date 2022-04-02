@@ -19,5 +19,7 @@
 
 <div> 
   <a href = "mailto:assumpcaojoao130@gmail.com"><img height="35" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
+  ![Snake animation](https://github.com/joaofelipe42/joaofelipe42/blob/output/github-contribution-grid-snake.svg)
  
 </div>
